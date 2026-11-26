@@ -1,0 +1,17 @@
+# Entornos virtuales y caché de Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Datos locales generados automáticamente (BD y escaneos propios)
+backend/data/
+
+# Frontend (para cuando tu compañero cree React/Vite)
+frontend/node_modules/
+frontend/dist/
+
+# Archivos de sistema / editor
+.vscode/
+.DS_Store
+Thumbs.db

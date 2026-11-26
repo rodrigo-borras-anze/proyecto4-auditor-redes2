@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+python-nmap
+pydantic
+scapy
+fpdf2
